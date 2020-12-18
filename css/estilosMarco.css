@@ -1,14 +1,15 @@
-@font-face {
-   font-family: Vivaldi;
-   font-style: normal;
-   font-weight: normal;
-   src: url(VIVALDI0.eot);
+h1 {
+color: white;
+background-color: black;
 }
 
-H1{
+p {
+color: red;
+background-color: lightyellow;
+}
+
+#pTitulo{
    font-family: "gothic";
-}
-
-H2{
-   font-family: "Vivaldi";
+   font-size: 50px;
+   background-color: #00FFFF;
 }
